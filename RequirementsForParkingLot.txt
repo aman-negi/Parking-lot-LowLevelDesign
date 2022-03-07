@@ -1,0 +1,16 @@
+Requirements of the parking lot :-
+
+-> There should be Ticket and spot machine/attendant at entrance and exit
+-> Parking spot should be nearest to the entrance
+-> Limit/Capacity should be There
+-> Data System which can tell us all the status of parking lot
+
+First of all we thought of all the functionalities that might be required
+
+1. Park A car
+2. Leave a car
+3. Get the current Capacity
+4. Get the current Empty space
+5. Get the current filled space
+6. Get the all the cars currently there in the parking lot
+7. Maintain a Record for cars that come and go in the parking lot, based on their leaving time
